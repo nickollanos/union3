@@ -1,0 +1,48 @@
+h4{
+    color: blue;
+    background-color: yellow;
+}
+
+p{
+ color: rgb(80, 238, 17);
+ font-size: 100px;
+
+}
+
+h1{
+    color: green;
+}
+
+h3{
+    color: brown;
+}
+
+#color-rojo{
+    color: red;
+}
+
+.viernes{
+    color: pink;
+}
+
+body{
+    background-image: url(https://www.tonica.la/__export/1595353354094/sites/debate/img/2020/07/21/halo-infinite-portada_1.jpg_1902800914.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-size: 100%;
+}
+.pie-de-pagina{
+    color: rgb(0, 255, 115);
+    font-size: 50px;
+}
+
+.b-1{
+    background: linear-gradient(to rigth, rgb(48, 64, 216)), rgb(245, 241, 239);
+}
+
+.b-2{
+    color: rgb(31, 211, 31);
+    text-shadow: -3px 3px #ffffff, -3px 3px #ffffff,
+     -3px 3px #ffffff,
+    3px 3px #f3f3f2, 6px 6px #6ac7c2;
+}
